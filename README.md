@@ -11,8 +11,8 @@
 		SWIPL -s es.pl
   
 #### B.if using the app(windows or other):
-use the swipl executable console and type:
-			swi(<your path up to es.pl>/'es.pl').
+#### use the swipl executable console and type:
+		swi(<your path up to es.pl>/'es.pl').
   
 ##### I don't own a working windows machine, if these instructions don't work as of reading, check the guide at https://www.swi-prolog.org/windows.html
   
